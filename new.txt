@@ -1,0 +1,14 @@
+# My Personal Website
+
+This is my personal website hosted on GitHub Pages. It’s a simple static site built with HTML, CSS, and JavaScript.
+
+## Features
+- Clean and responsive design.
+- Easy to customize.
+- Hosted for free on GitHub Pages.
+
+## How to Use
+1. Visit the live site: [https://selecttrucktyres.github.io](https://selecttrucktyres.github.io)
+2. Clone this repository to explore the code:
+   ```bash
+   git clone https://github.com/selecttrucktyres/selecttrucktyres.github.io.git
